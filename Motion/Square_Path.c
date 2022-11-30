@@ -23,15 +23,6 @@ void timer1_init(void){
 
 ISR(TIMER1_COMPA_vect){
 	count++;
-	//if(count==5){
-		//count=0;
-		//if(a==1){
-			//a=2;
-	//	}
-		//else{
-		//	a=1;
-		//}
-//	}
 }
 void left_encoder_pin_config (void)
 {
@@ -87,7 +78,6 @@ ISR(INT5_vect)
 ISR(INT4_vect)
 {
 	countl++;
-	//Your code
 }
 
 void motion_set (unsigned char Direction)
