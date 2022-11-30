@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
 
 In order to work with a Firebird V, the following manuals are required. Follow the software manual for installation purposes.
 
-Download here : <a href="https://drive.google.com/drive/folders/1GdCj5TaqzaT_NTc_QpTy5f5eUMnEj1Um?usp=sharing">Firebird V Manuals</a>
+Download here : <a href="https://github.com/IEEE-NITK/CSD-eYantra-Lab/tree/main/assets">Firebird V Manuals</a>
 
 ### Programming the Code into the Firebird V
 
