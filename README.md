@@ -26,17 +26,14 @@
     <img src="images/logo.png" alt="Logo" width="300" height="80">
   </a>
 
-<h3 align="center">CSD-EYantra-Lab</h3>
+<h3 align="center">CSD-eYantra-Lab</h3>
 
   <p align="center">
-    EYantra Workshop conducted by IEEE NITK in collaboration with Center for System Design (CSD) as a part of the IEEE ICRAIE (International Conference on Recent Advances and Innovations in Engineering) Conference held on 1st December 2022.
-    <br />
-    <a href="https://https://github.com/IEEE-NITK/CSD-eYantra-Lab"><strong>Explore the docs »</strong></a>
+    eYantra Workshop conducted by IEEE NITK in collaboration with Center for System Design (CSD) as a part of the IEEE ICRAIE (International Conference on Recent Advances and Innovations in Engineering) Conference held on 1st December 2022.
     <br />
     <br />
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
