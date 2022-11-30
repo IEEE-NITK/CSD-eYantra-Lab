@@ -87,7 +87,7 @@ The code included in this repository can be used to test the basic functions on 
 
 1. Clone the repo - 
    ```sh
-   git clone ttps://https://github.com/IEEE-NITK/CSD-eYantra-Lab
+   git clone https://github.com/IEEE-NITK/CSD-eYantra-Lab
    ```
 
 2. Open Microchip Studio. Create a new project of the type 'GCC C Executable'. Select an appropriate microcontroller device (for the Firebird V, we use ATMEGA 2560). 
